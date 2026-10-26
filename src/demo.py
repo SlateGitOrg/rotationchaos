@@ -1,4 +1,4 @@
-"""The 60-second artefact: nine scenarios, every one fails closed.
+"""Demo: one steady-state run plus eight failure scenarios; every failure fails closed.
 
 Run: python -m src.demo
 """

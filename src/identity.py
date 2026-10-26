@@ -1,7 +1,5 @@
 """Workload identity with sub-minute certificate lifetimes.
 
-THE DIFFERENTIATOR LIVES HERE.
-
 Teams adopt mTLS, everything works, and fourteen months later a certificate
 expires at 3am and half the estate cannot talk to the other half. The rotation
 path was never exercised, because certificates were long-lived and nobody waited
